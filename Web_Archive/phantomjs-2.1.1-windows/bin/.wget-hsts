@@ -1,0 +1,13 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+instagram.com	0	1	1656331233	31536000
+www.instagram.com	0	0	1656331234	31536000
+www.youtube.com	0	0	1656363150	31536000
+docs.google.com	0	0	1656254502	31536000
+www.netflix.com	0	1	1656333317	31536000
+www.facebook.com	0	0	1656405721	15552000
+youtube.com	0	1	1656363149	31536000
+netflix.com	0	1	1656333316	31536000
+facebook.com	0	0	1656405720	15552000
+www.reddit.com	0	1	1656162291	31536000
